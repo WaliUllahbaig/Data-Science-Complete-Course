@@ -1,0 +1,5 @@
+Housing Price Prediction Project
+We embarked on a journey to predict housing prices using machine learning! 🚀 After exploring and preprocessing the dataset, we delved into feature scaling, 
+engineering a new feature, and splitting the data. 🧐 With linear regression and regularized models, we aimed to find the best fit. Evaluation metrics and 
+diagnostics plots guided us, ensuring our predictions hit the mark. 📊🎯 Now, armed with insights and tuned models, we're ready to empower real estate decisions 
+with accurate price predictions! 🏠💰
